@@ -1,3 +1,5 @@
+[![Deploy on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue)](https://todo-app-gamma-blue-99.vercel.app/)
+
 # 📝 Simple CRUD App in React
 
 A basic **Create, Read, Update, Delete (CRUD) App** built with **React**. This app allows users to manage data with an interactive UI.
